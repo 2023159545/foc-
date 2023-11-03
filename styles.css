@@ -1,5 +1,5 @@
 body{
-    background-color: teal;
+    background-color: #f2f2f2;
 }
 
 .border{
@@ -18,7 +18,7 @@ body{
 }
 
 .div2{
-    background-color: blue;
+    background-color: #a5a5a5;
     
     padding-top: 10px;
     padding-bottom: 10px;
@@ -41,14 +41,14 @@ body{
 }
 
 .header1{
-    font-family: Royal acid;
+    font-family: Times;
     text-decoration: underline;
     font-weight: bold;
     text-align: center;
 }
 
 .header2{
-    font-family: royal acid;
+    font-family: Times;
     text-decoration: underline;
     font-weight: bold;
     margin-left: 10px;
