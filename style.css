@@ -3,16 +3,16 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: royal acid, allegro, sans-serif;
 }
 
 /* Style the header */
 header {
-  background-color: #6930C3;
-  padding: 30px;
+  background-color: #6495ED;
+  padding: 50px;
   text-align: center;
-  font-size: 35px;
-  color: white;
+  font-size: 45px;
+  color: #B8860B;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -20,7 +20,7 @@ nav {
   float: left;
   width: 15%;
   /*height: 300px;  only for demonstration, should be removed */
-  background: #FFFFFF;
+  background:#00FFFF ;
  padding: 20px;
 }
 
@@ -34,7 +34,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #5390D9;
+  background-color: #DC143C;
   /* height: 300px;  only for demonstration, should be removed */
 }
 
@@ -47,10 +47,10 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #5E60CE;
+  background-color: #006400;
   padding: 10px;
   text-align: center;
-  color: white;
+  color: BLACK;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
