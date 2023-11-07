@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: broadway, allegro, sans-serif;
+  font-family: broadway, sans-serif;
 }
 
 /* Style the header */
@@ -12,7 +12,7 @@ header {
   padding: 50px;
   text-align: center;
   font-size: 45px;
-  color: #B8860B;
+  color: #00008B;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -20,8 +20,8 @@ nav {
   float: left;
   width: 15%;
   /*height: 300px;  only for demonstration, should be removed */
-  background:#00FFFF ;
- padding: 20px;
+  background:#00008B;
+ padding: 40px;
 }
 
 /* Style the list inside the menu */
@@ -47,7 +47,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #006400;
+  background-color: #00008B;
   padding: 10px;
   text-align: center;
   color: #00008B;
