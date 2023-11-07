@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #6495ED;
+  background-color: #00008B;
   padding: 50px;
   text-align: center;
   font-size: 45px;
@@ -50,13 +50,13 @@ footer {
   background-color: #006400;
   padding: 10px;
   text-align: center;
-  color: BLACK;
+  color: #00008B;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 600px) {
   nav, article {
-    width: 100%;
+    width: 50%;
     height: auto;
   }
 }
@@ -67,8 +67,8 @@ footer {
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
-  padding: 10px;
+  width: 70%;
+  padding: 40px;
 
 }
 
