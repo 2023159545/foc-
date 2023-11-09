@@ -13,7 +13,7 @@ header {
   padding: 50px;
   text-align: center;
   font-size: 45px;
-  color: #00008B;
+  color: black;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -51,7 +51,7 @@ footer {
   background-color: #00008B;
   padding: 10px;
   text-align: center;
-  color: #00008B;
+  color: white;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
